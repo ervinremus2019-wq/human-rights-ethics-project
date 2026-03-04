@@ -7,12 +7,10 @@ Ervin Remus Radosavlevici (DOB: 01/09/1987)
 - ervin210@icloud.com
 - ervinremus210@gmail.com
 
-**GitLab Profile:**
-[https://gitlab.com/ervinremus210](https://gitlab.com/ervinremus210)
 
 **Repository:**
-[https://gitlab.com/ervinremus210/atlas-harmony.git](https://gitlab.com/ervinremus210/atlas-harmony.git)
 
+https://github.com/ervinremus2019-wq/human-rights-ethics-project/tree/main
 **Status:**
 Main Owner of Repository and All Projects
 
